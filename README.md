@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - j.harth@nexo.systems<br>⚡ Fun fact: Spaces are better than tabs
+🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - j.harth@nexo.systems<br>⚡ Fun fact: Spaces are better than tabs<br> ⚡  My Web-Hosting is https://nexo.systems
 
 
 ## 🌐 Socials:
